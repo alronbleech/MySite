@@ -420,4 +420,105 @@ footer > p {
   .sub-text {
     font-size: 18px;
   }
+
+  .portfolio-main {
+    width: 90%;
+  }
+
+  .portfolio-image {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-flow: column;
+  }
+
+  .portfolio-list {
+    margin: 0 auto;
+  }
+
+  .bg1 {
+    display: none;
+  }
+
+  .bg2 {
+    margin-bottom: 10px;
+  }
+
+  .bg3 {
+    display: none;
+  }
+
+  .bg4{
+    margin-bottom: 10px;
+  }
+
+  .bg5 {
+    display: none;
+  }
+
+  .feature {
+  width: 90%;
+  }
+
+  .feature-strength {
+  display: flex;
+  flex-direction: column;
+  }
+
+  .feature-list {
+    margin: 0 auto;
+  }
+
+  .st1 {
+    margin-bottom: 10px;
+  }
+
+  .st2 {
+    margin-bottom: 10px;
+  }
+
+  .profile-main {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .profile-content {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  }
+
+  .profile-image {
+    margin: 0 auto;
+  }
+
+  .profile-introduction {
+    margin: 0 auto;
+  }
+
+  .profile-introduction > h3 {
+    padding-top: 20px;
+  }
+
+  .contact {
+    width: 90%;
+    padding-bottom: 90px;
+  }
+
+  .contact-main {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .contact-container {
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  footer {
+    width: 90%;
+    margin: 0 auto;
+  }
 }
